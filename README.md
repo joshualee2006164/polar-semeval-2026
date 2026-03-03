@@ -1,4 +1,3 @@
-# polar-semeval-2026
 # Multilingual Polarization Detection – SemEval POLAR
 
 This repository contains the training script used for our submission to POLAR Subtask 1.
