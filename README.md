@@ -28,7 +28,7 @@ Each CSV must contain:
 
 ## Run Training
 
-python train.py
+python subtask_1_XLM-Roberta_2_git.py
 
 ## Notes
 The training script combines all languages into a single dataset and applies language-aware sampling using a WeightedRandomSampler.
